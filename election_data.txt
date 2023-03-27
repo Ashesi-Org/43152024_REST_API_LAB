@@ -1,0 +1,24 @@
+[
+  {
+    "Election_ID": "001",
+    "Election_Name": "ASC Presedential Election",
+    "Candidates": [
+      {
+        "Candidate_ID": "1",
+        "Name": "Oheneba Dade",
+        "Position": "ASC President",
+        "Year Group": "2024",
+        "Major": "French",
+        "Vote_Count": 3
+      },
+      {
+        "Candidate_ID": "2",
+        "Name": "Laura Larbi",
+        "Position": "ASC President",
+        "Year Group": "2022",
+        "Major": "Dance",
+        "Vote_Count": 11
+      }
+    ]
+  }
+]

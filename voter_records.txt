@@ -1,0 +1,20 @@
+[
+  {
+    "ID": "43592021",
+    "Name": "Laura Larbi",
+    "Year_Group": "2023",
+    "Major": "Computer Science"
+  },
+  {
+    "ID": "43492022",
+    "Name": "Abby Owusu",
+    "Year_Group": "2024",
+    "Major": "Computer Science"
+  },
+  {
+    "ID": "23452024",
+    "Name": "Martin Brown",
+    "Year_Group": "2025",
+    "Major": "Computer Science"
+  }
+]
